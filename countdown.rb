@@ -11,7 +11,7 @@ end
 def countdown_with_sleep(number)
 end
 
-number = log10
+number = 10
   while number > 0 
     puts "#{number} SECOND(S)!"
     counter -= 1
